@@ -1,15 +1,48 @@
-# Project Ideas and COncepts
-A collection  of project ideas, concepts, and inspiration for developing my profile.
+# Project Ideas and Concepts
 
-## Full Stack Projects
+A collection of project ideas, concepts, and inspiration for developing my profile.
 
-## JavaScript Projects
-- Photography portfolio
-- personal site
-- Business site
+## Automations and Scripts
 
-## Projects that solve a problem
+## Front End Projects and Components
 
-## Python Projects and Scripts
+### Front End Challenges
+    - frontendpro.dev
+    - Static Sites
+### UI Library + Variants
+    - Header
+    - Nav
+    - Sub Nav
+    - Cards
+    - Carousel
+    - Modal
+    - Pop Over
+    - Tab Browsing
+    - Menu
+    - Expanded Menu
+    - Pagnination
+    - Footer
+    - Search
+    - Cart
+    - Login / Signup Form
+    - Buttons
+    - Design System
+    - Badge
+    - Chip
+    - Images
+    - Responsive Images
+    - Avatars
+### Templates
+- Business Landing Page
+- Resturant
+- Portfolio
+- E-commerce Store
+- 
 
-## SASS Projects
+## Website Clones
+
+##
+
+## Blackboard or Canvas AI Class Manager
+
+## Apple Health Ftiness competiton app
