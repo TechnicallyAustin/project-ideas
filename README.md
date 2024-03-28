@@ -37,7 +37,7 @@ A collection of project ideas, concepts, and inspiration for developing my profi
 - Resturant
 - Portfolio
 - E-commerce Store
-- 
+- Real estate templates
 
 ## Website Clones
 
