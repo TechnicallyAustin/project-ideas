@@ -41,7 +41,7 @@ A collection of project ideas, concepts, and inspiration for developing my profi
 
 ## Website Clones
 
-##
+## event and day trip planner
 
 ## Blackboard or Canvas AI Class Manager
 
