@@ -45,6 +45,8 @@ A collection of project ideas, concepts, and inspiration for developing my profi
 
 ## visual to do list
 
+## DSA based projects
+
 ## Blackboard or Canvas AI Class Manager
 
 ## Apple Health Ftiness competiton app
