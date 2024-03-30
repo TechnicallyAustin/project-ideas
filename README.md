@@ -43,6 +43,8 @@ A collection of project ideas, concepts, and inspiration for developing my profi
 
 ## event and day trip planner
 
+## visual to do list
+
 ## Blackboard or Canvas AI Class Manager
 
 ## Apple Health Ftiness competiton app
