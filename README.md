@@ -44,3 +44,6 @@ A collection of project ideas, concepts, and inspiration for developing my profi
 ## Leetcode blog posts
 
 ## Infinite whiteboard 
+
+
+## home buying tool and documentation
