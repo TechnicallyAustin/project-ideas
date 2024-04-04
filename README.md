@@ -45,5 +45,4 @@ A collection of project ideas, concepts, and inspiration for developing my profi
 
 ## Infinite whiteboard 
 
-
 ## home buying tool and documentation
