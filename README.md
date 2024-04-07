@@ -1,50 +1,18 @@
-# Project Ideas and Concepts
+# Technically Austin
+This is a monorepo containing the code and documentation for my personal projects and objectives. It's organized by directory, with each project having it's own purpose and detailed documentaion.
 
-A collection of project ideas, concepts, and inspiration for developing my profile.
+---
 
-## Automations and Scripts
+## Table of Contents
+#### 1. Automation and Scripts
+#### 2. Documentation System
+#### 3. Frontend Challenges
+#### 4. Frontend Projects
+#### 5. Fullstack Projects
+#### 6. Fullstack Components
+#### 6. Leetcode
+#### 7. Projects
+#### 8. Templates
+#### 9. UI Library
 
-## Front End Projects and Components
-
-### Front End Challenges
-    - frontendpro.dev
-    - Static Sites
-### UI Library + Variants
-    - Header
-    - Nav
-    - Sub Nav
-    - Cards
-    - Carousel
-    - Modal
-    - Pop Over
-    - Tab Browsing
-    - Menu
-    - Expanded Menu
-    - Pagnination
-    - Footer
-    - Search
-    - Cart
-    - Login / Signup Form
-    - Buttons
-    - Design System
-    - Badge
-    - Chip
-    - Images
-    - Responsive Images
-    - Avatars
-### Templates
-- Business Landing Page
-- Resturant
-- Portfolio
-- E-commerce Store
-- Real estate templates 
-
-## Apple Health Fitness competiton app
-
-## Leetcode blog posts
-
-## Infinite whiteboard 
-
-## home buying tool and documentation
-
-## Travel location organizer.
+---
