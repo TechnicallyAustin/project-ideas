@@ -14,6 +14,7 @@ This is a monorepo containing the code and documentation for my personal project
 #### 7. Projects
 #### 8. Templates
 #### 9. UI Library
+#### 10. Modules
 
 ---
 
@@ -21,3 +22,5 @@ This is a monorepo containing the code and documentation for my personal project
 -
 -
 -
+
+
