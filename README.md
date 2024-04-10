@@ -18,8 +18,7 @@ This is a monorepo containing the code and documentation for my personal project
 
 ---
 
-## Montenzation projects
--
+## projects that can make me money
 -
 -
 
