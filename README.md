@@ -32,6 +32,11 @@ This is a monorepo containing the code and documentation for my personal project
 - Contact
 
 # Neighboorhood or Community Central IT Support and House Calls
+- Operate in Master Planned Communities
+- Create a ticketing System that can route voicemails and texts into tickets
+- create a pricing strucutre
+- Create an advertising plan to scale with Eastmark
+- Create a team of techs and content creators
 
 
 
