@@ -38,6 +38,13 @@ This is a monorepo containing the code and documentation for my personal project
 - Create an advertising plan to scale with Eastmark
 - Create a team of techs and content creators
 
+- Identifiy primary services
+- Research similar offerings and competitors
+- Develop a business model based on the needs of the community
+- create a Landing Page
+- create a support Site
+
+
 
 
 
