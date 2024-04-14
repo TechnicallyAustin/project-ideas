@@ -44,6 +44,22 @@ This is a monorepo containing the code and documentation for my personal project
 - create a Landing Page
 - create a support Site
 
+- Create or Adapt a secure payment system
+- Build a database for customer information, service requests, and payments
+- Create General offerings and categories
+- Establish SLA for Ticket response and resolution
+- Provide Remote Support
+
+- Provide Application specific support
+    - O365
+    - Adobe
+    - Final Cut
+    - MacOS
+    - Windows
+    
+
+
+
 
 
 
