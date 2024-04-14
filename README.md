@@ -32,6 +32,12 @@ This is a monorepo containing the code and documentation for my personal project
 - Contact
 
 # Neighboorhood or Community Central IT Support and House Calls
+- Provide IT support for neighbors in need
+    - Undercuts Apple Genius bar appointments
+    - provides a point of support for non apple devices
+    - Emergency support requests
+    - Local and immediate support
+    - 
 - Operate in Master Planned Communities
 - Create a ticketing System that can route voicemails and texts into tickets
 - create a pricing strucutre
@@ -56,6 +62,11 @@ This is a monorepo containing the code and documentation for my personal project
     - Final Cut
     - MacOS
     - Windows
+
+# Digital Media Agency
+
+
+
     
 
 
