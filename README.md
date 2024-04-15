@@ -64,6 +64,8 @@ This is a monorepo containing the code and documentation for my personal project
     - Windows
 
 # Digital Media Agency
+- Photos
+- Videos
 
 
 
