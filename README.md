@@ -73,6 +73,15 @@ This is a monorepo containing the code and documentation for my personal project
 - Podcasting
 
 
+## Examples of digital media services
+- Sell Selphy Prints
+- sell 11 x17 and 24 x 26 prints
+- design frames for prints
+
+
+
+
+
 
     
 
