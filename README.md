@@ -78,6 +78,10 @@ This is a monorepo containing the code and documentation for my personal project
 - sell 11 x17 and 24 x 26 prints
 - design frames for prints
 
+- Wedding photos
+- Engagement Photos
+
+
 
 
 
