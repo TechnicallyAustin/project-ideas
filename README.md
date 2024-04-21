@@ -80,6 +80,9 @@ This is a monorepo containing the code and documentation for my personal project
 
 - Wedding photos
 - Engagement Photos
+- Portraits
+- Family and Kids Photography
+
 
 
 
