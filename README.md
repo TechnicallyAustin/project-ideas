@@ -83,11 +83,9 @@ This is a monorepo containing the code and documentation for my personal project
 - Portraits
 - Family and Kids Photography
 
-# Career Focused Projects
-Job organizer
-Resume builder
-Cover letter generator
-Job prep
+
+
+
 
 
 
