@@ -13,10 +13,10 @@ This is a monorepo containing the code and documentation for my personal project
 #### 6. Leetcode
 #### 7. Media
 #### 8. Modules
-#### 7. Projects
-#### 8. Templates
-#### 9. UI Library
-#### 10. Modules
+#### 9. Projects
+#### 10. Templates
+#### 11. UI Library
+#### 12. Modules
 
 ---
 
