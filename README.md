@@ -11,6 +11,8 @@ This is a monorepo containing the code and documentation for my personal project
 #### 5. Fullstack Projects
 #### 6. Fullstack Components
 #### 6. Leetcode
+#### 7. Media
+#### 8. Modules
 #### 7. Projects
 #### 8. Templates
 #### 9. UI Library
