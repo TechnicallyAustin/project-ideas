@@ -27,6 +27,7 @@ This is a monorepo containing the code and documentation for my personal project
 - Personal website
 - Blog
 - Social media
+- Business plan
 
 
 
