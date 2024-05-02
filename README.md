@@ -29,6 +29,13 @@ This is a monorepo containing the code and documentation for my personal project
 - Social media
 - Business plan
 
+### Skills needed
+- Software Development
+- AI
+- Photography
+- Cinemeatography
+- Editing
+
 
 
 
