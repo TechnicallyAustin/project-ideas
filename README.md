@@ -38,11 +38,16 @@ This is a monorepo containing the code and documentation for my personal project
 
 ### Nodes
 - Business
+    - Photo
+    - IT
+    - Media Services
 - Career
 - Home
 - Vehicles
 - Finance
 - Software
+
+
 
 
 
