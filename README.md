@@ -43,6 +43,9 @@ This is a monorepo containing the code and documentation for my personal project
         - Maternaty
         - Portraits
         - Families
+        - Auto
+        - Real Estate
+        - Cityscape
     - IT
     - Media Services
 - Career
