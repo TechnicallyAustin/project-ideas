@@ -39,6 +39,10 @@ This is a monorepo containing the code and documentation for my personal project
 ### Nodes
 - Business
     - Photo
+        - Engagements
+        - Maternaty
+        - Portraits
+        - Families
     - IT
     - Media Services
 - Career
