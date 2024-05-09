@@ -40,8 +40,12 @@ This is a monorepo containing the code and documentation for my personal project
 - Business
     - Photo
         - Wedding packages
-        - Engagements
-        - Maternity
+            - Engagements
+            - Maternity
+            - Videopgraphy
+            - Websites
+            - Invitations
+            - Registry
         - Portraits
         - Families
         - Auto
