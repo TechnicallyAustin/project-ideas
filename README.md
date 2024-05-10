@@ -46,8 +46,16 @@ This is a monorepo containing the code and documentation for my personal project
             - Websites
             - Invitations
             - Registry
-        - Portraits
-        - Families
+        - Studio Packages
+            - Portraits
+            - Families
+            - Kids
+            - New Borns
+        - Print and Framing Services
+            - Custom Frames
+            - Custom print sizes
+            - Stickers
+            - Screen Printing
         - Auto
         - Real Estate
         - Cityscape
