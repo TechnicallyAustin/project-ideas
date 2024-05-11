@@ -37,6 +37,9 @@ This is a monorepo containing the code and documentation for my personal project
 - Editing
 
 ### Nodes
+- Node 1: Engineering
+- Node 2: IT
+- Node 3: Media
 - Business
     - Photo
         - Wedding packages
