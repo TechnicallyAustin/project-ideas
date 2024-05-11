@@ -59,6 +59,8 @@ This is a monorepo containing the code and documentation for my personal project
         - Auto
         - Real Estate
         - Cityscape
+            - Drones
+            - Skylines
     - IT
     - Media Services
 - Career
