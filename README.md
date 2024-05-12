@@ -39,8 +39,9 @@ This is a monorepo containing the code and documentation for my personal project
 ### Nodes
 - Node 1: Engineering
 - Node 2: IT
+    - Skill Improvement
+    - Knowledge refinement
 - Node 3: Media
-- Business
     - Photo
         - Wedding packages
             - Engagements
@@ -64,13 +65,7 @@ This is a monorepo containing the code and documentation for my personal project
         - Cityscape
             - Drones
             - Skylines
-    - IT
-    - Media Services
-- Career
-- Home
-- Vehicles
-- Finance
-- Software
+
 
 
 
