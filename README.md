@@ -41,6 +41,10 @@ This is a monorepo containing the code and documentation for my personal project
 - Node 2: IT
     - Skill Improvement
     - Knowledge refinement
+    - Job Options
+        - Technical Support Engineer
+        - Customer Suppoert Engineer
+        - Senior Technical Support
 - Node 3: Media
     - Photo
         - Wedding packages
