@@ -45,6 +45,9 @@ This is a monorepo containing the code and documentation for my personal project
         - Technical Support Engineer
         - Customer Suppoert Engineer
         - Senior Technical Support
+        - Technical Support Analyst
+        - IT Specialist
+
 - Node 3: Media
     - Photo
         - Wedding packages
