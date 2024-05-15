@@ -41,6 +41,8 @@ This is a monorepo containing the code and documentation for my personal project
 - Node 2: IT
     - Skill Improvement
     - Knowledge refinement
+
+    - Salary Objectives - $95,000 + Bonuses
     - Job Options
         - Technical Support Engineer
         - Customer Suppoert Engineer
