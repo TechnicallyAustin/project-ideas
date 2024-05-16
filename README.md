@@ -38,10 +38,11 @@ This is a monorepo containing the code and documentation for my personal project
 
 ### Nodes
 - Node 1: Engineering
+
+
 - Node 2: IT
     - Skill Improvement
     - Knowledge refinement
-
     - Salary Objectives - $95,000 + Bonuses
     - Job Options
         - Technical Support Engineer
@@ -51,29 +52,47 @@ This is a monorepo containing the code and documentation for my personal project
         - IT Specialist
 
 - Node 3: Media
-    - Photo
-        - Wedding packages
-            - Engagements
-            - Maternity
-            - Videopgraphy
-            - Websites
-            - Invitations
-            - Registry
-        - Studio Packages
-            - Portraits
-            - Families
-            - Kids
-            - New Borns
-        - Print and Framing Services
-            - Custom Frames
-            - Custom print sizes
-            - Stickers
-            - Screen Printing
-        - Auto
-        - Real Estate
-        - Cityscape
-            - Drones
-            - Skylines
+    - Salary Objectives - 24,000 / year
+
+    Needs
+
+    - Technical Skills
+    - Photography Techniques
+    - Lighting
+    - Cinematography
+    - Video Editing
+
+    Job Options
+        - Photographer
+        - Media Editior
+        - Drone Photographer
+        - Videographer
+        - Freelance
+
+    Skills
+        - Photo
+            - Wedding packages
+                - Engagements
+                - Maternity
+                - Videopgraphy
+                - Websites
+                - Invitations
+                - Registry
+            - Studio Packages
+                - Portraits
+                - Families
+                - Kids
+                - New Borns
+            - Print and Framing Services
+                - Custom Frames
+                - Custom print sizes
+                - Stickers
+                - Screen Printing
+            - Auto
+            - Real Estate
+            - Cityscape
+                - Drones
+                - Skylines
 
 
 
