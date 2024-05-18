@@ -37,10 +37,10 @@ This is a monorepo containing the code and documentation for my personal project
 - Editing
 
 ### Nodes
-- Node 1: Engineering
+Node 1: Engineering
 
 
-- Node 2: IT
+# Node 2: IT
     Salary Objectives - $95,000 + Bonuses / Equity
 
     Skill Improvement
@@ -52,22 +52,22 @@ This is a monorepo containing the code and documentation for my personal project
         - Technical Support Analyst
         - IT Specialist
 
-- Node 3: Media
-    Salary Objectives - 24,000 / year
+# Node 3: Media
+   ## Salary Objectives - 24,000 / year
 
-    Skill Needs
-        - Technical Skills
-        - Photography Techniques
-        - Lighting
-        - Cinematography
-        - Video Editing
+### Skill Needs
+    - Technical Skills
+    - Photography Techniques
+    - Lighting
+    - Cinematography
+    - Video Editing
 
-    Job Options
-        - Photographer
-        - Media Editior
-        - Drone Photographer
-        - Videographer
-        - Freelance
+###  Job Options
+    - Photographer
+    - Media Editior
+    - Drone Photographer
+    - Videographer
+    - Freelance
 
     Skills
         - Photo
