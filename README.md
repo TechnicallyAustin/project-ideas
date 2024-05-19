@@ -20,22 +20,6 @@ This is a monorepo containing the code and documentation for my personal project
 
 ---
 
-### Content Needed
-- Photo Portfolio
-- Project portfolio
-- Photo Website
-- Personal website
-- Blog
-- Social media
-- Business plan
-
-### Skills needed
-- Software Development
-- AI
-- Photography
-- Cinemeatography
-- Editing
-
 ### Nodes
 Node 1: Engineering
 
@@ -69,25 +53,29 @@ Node 1: Engineering
     - Videographer
     - Freelance
 
-    Skills
-        - Photo
-            - Wedding packages
-                - Engagements
-                - Maternity
-                - Videopgraphy
-                - Websites
-                - Invitations
-                - Registry
-            - Print and Framing Services
-                - Custom Frames
-                - Custom print sizes
-                - Stickers
-                - Screen Printing
-            - Auto
-            - Real Estate
-            - Cityscape
-                - Drones
-                - Skylines
+### Skills Held
+
+
+
+### Service Structure
+#### Photo
+  - Wedding packages
+      - Engagements
+      - Maternity
+      - Videopgraphy
+      - Websites
+      - Invitations
+      - Registry
+  - Print and Framing Services
+      - Custom Frames
+      - Custom print sizes
+      - Stickers
+      - Screen Printing
+  - Auto
+  - Real Estate
+  - Cityscape
+      - Drones
+      - Skylines
 
 
 
