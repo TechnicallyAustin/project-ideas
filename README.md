@@ -23,9 +23,10 @@ This is a monorepo containing the code and documentation for my personal project
 ### Nodes
 Node 1: Engineering
 
+---
 
 # Node 2: IT
-    Salary Objectives - $95,000 + Bonuses / Equity
+## Salary Objectives - $95,000 + Bonuses / Equity
 
     Skill Improvement
     Knowledge refinement
@@ -36,8 +37,10 @@ Node 1: Engineering
         - Technical Support Analyst
         - IT Specialist
 
+---
+
 # Node 3: Media
-   ## Salary Objectives - 24,000 / year
+## Salary Objectives - 24,000 / year
 
 ### Skill Needs
     - Technical Skills
@@ -77,6 +80,7 @@ Node 1: Engineering
       - Drones
       - Skylines
 
+--- 
 
 
 
