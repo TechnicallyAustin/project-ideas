@@ -20,13 +20,42 @@ This is a monorepo containing the code and documentation for my personal project
 
 ---
 
-### Nodes
-Node 1: Engineering
+
+# Node 1: Engineering
+## Salary Objectives - $100,000 + Bonuses / Equity
+
+### Front End
+- HTML
+- CSS
+    - Tailwind
+    - Bootstrap
+    - Next UI
+- JavaScript
+    - React
+
+### Backend
+    - Python
+    - Javascript
+        - Node
+        - Express
+        - Mongo DB
+
+### DSA
+    - Leetcode
+    - HackerRank
+    - CodeWars
+
+### Projects
+
+### Tools
+
+
 
 ---
 
 # Node 2: IT
 ## Salary Objectives - $95,000 + Bonuses / Equity
+---
 
     Skill Improvement
     Knowledge refinement
@@ -41,6 +70,7 @@ Node 1: Engineering
 
 # Node 3: Media
 ## Salary Objectives - 24,000 / year
+---
 
 ### Skill Needs
     - Technical Skills
@@ -59,9 +89,8 @@ Node 1: Engineering
 ### Skills Held
 
 
-
 ### Service Structure
-#### Photo
+#### Photos / Videos
   - Wedding packages
       - Engagements
       - Maternity
