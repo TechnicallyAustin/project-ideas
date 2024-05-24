@@ -113,6 +113,8 @@ This is a monorepo containing the code and documentation for my personal project
 # To Do
 Start LLC
 Develop branding and content
+Focus on Media Content
+Start Videography
 
 --- 
 
