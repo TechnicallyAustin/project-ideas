@@ -117,6 +117,8 @@ Focus on Media Content
 Start Videography
 Create Technically Austin
 Create Technically Creative
+Organize Socials
+Curate and Launch Instagram
 
 
 --- 
