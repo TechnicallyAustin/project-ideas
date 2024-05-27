@@ -119,6 +119,8 @@ Create Technically Austin
 Create Technically Creative
 Organize Socials
 Curate and Launch Instagram
+Connect socials to technically Austin
+Refine Wireframes and Prototypes
 
 
 --- 
