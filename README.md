@@ -121,6 +121,8 @@ Organize Socials
 Curate and Launch Instagram
 Connect socials to technically Austin
 Refine Wireframes and Prototypes
+Create site map for technically network
+organize content
 
 
 --- 
