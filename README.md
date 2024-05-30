@@ -124,6 +124,8 @@ Refine Wireframes and Prototypes
 Create site map for technically network
 organize content
 Document Project process
+Zero in on hourly rate 
+Establish service levels and packages
 
 
 
