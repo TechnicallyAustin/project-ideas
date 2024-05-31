@@ -126,6 +126,8 @@ organize content
 Document Project process
 Zero in on hourly rate 
 Establish service levels and packages
+Start Mono repo for Technically Network
+Curate Dependencies
 
 
 
